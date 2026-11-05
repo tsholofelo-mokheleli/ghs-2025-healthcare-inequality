@@ -1,0 +1,54 @@
+
+# ==========================================
+# GHS 2025 Healthcare Inequality Project
+# Track notebooks and project documentation
+# ==========================================
+
+# Raw and processed datasets
+data/
+*.csv
+*.parquet
+*.xlsx
+*.xls
+
+# Generated outputs (tables, figures, models)
+outputs/
+
+# Figures and images
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+*.webp
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# VS Code local settings
+.vscode/
+
+# Keep notebooks, protocol and configuration
+!*.ipynb
+!*.md
+!*.yaml
+!*.yml
+!*.py
+!*.txt
