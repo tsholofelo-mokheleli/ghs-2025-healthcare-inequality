@@ -69,7 +69,7 @@ To investigate socioeconomic, demographic and geographic inequalities in healthc
 
 **RQ1 — Distribution of healthcare access inequality**
 
-What socioeconomic, demographic and geographic inequalities characterise healthcare accessibility, healthcare sector reliance and reported healthcare utilisation in South Africa?
+What socioeconomic, demographic and geographic inequalities characterise healthcare accessibility and public/private healthcare sector reliance in South Africa?
 
 **RQ2 — Factors associated with healthcare access disadvantage**
 
